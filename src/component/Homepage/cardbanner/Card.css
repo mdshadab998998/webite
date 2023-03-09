@@ -1,0 +1,15 @@
+.card{
+    margin-top: 35%;
+    max-width: 22rem ;
+    padding: 10%;
+    border: none;
+    background-color: white;
+    box-shadow:  0px 0px 5px 2px rgb(236, 233, 233);
+
+}
+/* .card-title{
+    border: 1px solid blue;
+} */
+.card-header, .card-footer {
+    border:none;
+}
